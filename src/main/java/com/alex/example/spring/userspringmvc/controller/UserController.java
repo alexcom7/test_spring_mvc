@@ -37,7 +37,7 @@ public class UserController {
     public ModelAndView validateUser(){
         ModelAndView modelAndView = new ModelAndView();
         modelAndView.addObject("userFromServer", new User());
-        System.out.println("GG");
+        
         modelAndView.setViewName("users_check_page");
         return modelAndView;
     }
