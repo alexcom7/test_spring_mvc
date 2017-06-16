@@ -17,7 +17,7 @@ public class Project {
     }
     
     public void test2(){
-        
+        System.err.println("22");
     }
     
     public void test3(){
