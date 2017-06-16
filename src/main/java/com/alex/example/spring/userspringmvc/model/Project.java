@@ -19,4 +19,9 @@ public class Project {
     public void test2(){
         
     }
+    
+    public void test4(){
+        
+        int y=57;
+    }
 }
