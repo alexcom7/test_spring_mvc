@@ -27,5 +27,6 @@ public class Project {
     public void test3(){
         
         int r=57;
+        double t=77;
     }
 }
