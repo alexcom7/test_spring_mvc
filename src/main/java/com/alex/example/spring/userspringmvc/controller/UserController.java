@@ -38,6 +38,7 @@ public class UserController {
         ModelAndView modelAndView = new ModelAndView();
         modelAndView.addObject("userFromServer", new User());
         
+        System.out.println("ss");
         modelAndView.setViewName("users_check_page");
         return modelAndView;
     }
