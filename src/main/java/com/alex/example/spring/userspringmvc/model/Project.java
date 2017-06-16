@@ -18,6 +18,16 @@ public class Project {
     
     public void test2(){
         
+        int r=0;
+        String s= "ww";
+        
+        System.err.println("Check");
+    }
+    
+    public void test3(){
+        
+        int r=57;
+        double t=77;
     }
     
     public void test4(){
