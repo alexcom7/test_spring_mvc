@@ -11,4 +11,8 @@ package com.alex.example.spring.userspringmvc.model;
  */
 public class Project {
     
+    
+    public void test(){
+        
+    }
 }
