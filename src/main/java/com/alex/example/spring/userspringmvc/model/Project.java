@@ -15,4 +15,8 @@ public class Project {
     public void test(){
         
     }
+    
+    public void test2(){
+        
+    }
 }
