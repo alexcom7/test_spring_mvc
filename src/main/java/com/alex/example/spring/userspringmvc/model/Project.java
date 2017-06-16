@@ -17,10 +17,16 @@ public class Project {
     }
     
     public void test2(){
-        System.err.println("22");
+        
+        int r=0;
+        String s= "ww";
+        
+        System.err.println("Check");
+
     }
     
     public void test3(){
         
+        int r=57;
     }
 }
